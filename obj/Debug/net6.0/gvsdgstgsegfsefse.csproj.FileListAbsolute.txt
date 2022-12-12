@@ -1,0 +1,5 @@
+C:\Users\jaija\Documents\GitHub\gvsdgstgsegfsefse\obj\Debug\net6.0\gvsdgstgsegfsefse.csproj.AssemblyReference.cache
+C:\Users\jaija\Documents\GitHub\gvsdgstgsegfsefse\obj\Debug\net6.0\gvsdgstgsegfsefse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaija\Documents\GitHub\gvsdgstgsegfsefse\obj\Debug\net6.0\gvsdgstgsegfsefse.AssemblyInfoInputs.cache
+C:\Users\jaija\Documents\GitHub\gvsdgstgsegfsefse\obj\Debug\net6.0\gvsdgstgsegfsefse.AssemblyInfo.cs
+C:\Users\jaija\Documents\GitHub\gvsdgstgsegfsefse\obj\Debug\net6.0\gvsdgstgsegfsefse.csproj.CoreCompileInputs.cache
