@@ -3,3 +3,13 @@ C:\Users\jaija\Documents\GitHub\gvsdgstgsegfsefse\obj\Debug\net6.0\gvsdgstgsegfs
 C:\Users\jaija\Documents\GitHub\gvsdgstgsegfsefse\obj\Debug\net6.0\gvsdgstgsegfsefse.AssemblyInfoInputs.cache
 C:\Users\jaija\Documents\GitHub\gvsdgstgsegfsefse\obj\Debug\net6.0\gvsdgstgsegfsefse.AssemblyInfo.cs
 C:\Users\jaija\Documents\GitHub\gvsdgstgsegfsefse\obj\Debug\net6.0\gvsdgstgsegfsefse.csproj.CoreCompileInputs.cache
+C:\Users\jaija\Documents\GitHub\gvsdgstgsegfsefse\bin\Debug\net6.0\gvsdgstgsegfsefse.exe
+C:\Users\jaija\Documents\GitHub\gvsdgstgsegfsefse\bin\Debug\net6.0\gvsdgstgsegfsefse.deps.json
+C:\Users\jaija\Documents\GitHub\gvsdgstgsegfsefse\bin\Debug\net6.0\gvsdgstgsegfsefse.runtimeconfig.json
+C:\Users\jaija\Documents\GitHub\gvsdgstgsegfsefse\bin\Debug\net6.0\gvsdgstgsegfsefse.dll
+C:\Users\jaija\Documents\GitHub\gvsdgstgsegfsefse\bin\Debug\net6.0\gvsdgstgsegfsefse.pdb
+C:\Users\jaija\Documents\GitHub\gvsdgstgsegfsefse\obj\Debug\net6.0\gvsdgstgsegfsefse.dll
+C:\Users\jaija\Documents\GitHub\gvsdgstgsegfsefse\obj\Debug\net6.0\refint\gvsdgstgsegfsefse.dll
+C:\Users\jaija\Documents\GitHub\gvsdgstgsegfsefse\obj\Debug\net6.0\gvsdgstgsegfsefse.pdb
+C:\Users\jaija\Documents\GitHub\gvsdgstgsegfsefse\obj\Debug\net6.0\gvsdgstgsegfsefse.genruntimeconfig.cache
+C:\Users\jaija\Documents\GitHub\gvsdgstgsegfsefse\obj\Debug\net6.0\ref\gvsdgstgsegfsefse.dll
